@@ -1,0 +1,285 @@
+body{
+	width: auto;
+	background-color: #f2f0e55e;
+	margin: 0;
+}
+header{
+	width: auto;
+	height: 80px;
+	background-color: #3F5D9A;
+	margin-top: 0px;
+
+}
+.container{
+	width: 1000px;
+	margin: auto;
+	overflow: hidden;
+	color: #fff;
+}
+.logo{
+	
+	float: left;
+	width: 50%;
+	color: #ffffff;
+	margin-top: 20px;
+}
+.login{
+	
+	float: left;
+	width: 50%;
+	margin-right: 0px;
+}
+.logo a{
+	color: #ffffff;
+	font-size: 40px;
+	font-family: sans-serif;
+	text-decoration: none;
+	font-weight: bold;
+}
+form{overflow: hidden;margin-top: 15px;margin-left: 84px;}
+.inputs{width: 40%;float: left;box-sizing: border-box;}
+.inputs input{
+	
+margin-bottom: 3px;
+	
+width: 80%;
+}
+.inputs label{}
+.inputs a{color: #fff9;text-decoration: none;margin-bottom: 4px;}
+.submit{width: 20%;float: left;box-sizing: border-box;}
+.submit input{
+
+	background-color: #3578E5;
+	border: 0;
+	padding: 5px 18px;
+	border-radius: 3px;
+	color: #fff;
+	margin-top: 18px;
+}
+section{
+	margin-top: 0px;
+	width: auto;
+	background-color: #DBDFEC;
+}
+.container2{
+     margin: auto;
+     overflow: hidden;
+     width: 1000px;
+     color: #62385F;
+     width: 1000px;
+}
+.images{
+    background-color: #E6E9F2;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+    float: left;
+    }
+
+.images p{
+    font-family: sans-serif;
+    font-size: 21px;
+    color: #62385F;
+    font-weight: bold;
+}
+.information{
+
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.information p{
+
+	font-size: 38px;
+	color: black;
+	margin-left: 86px;
+	margin-top: 12px;
+	margin-bottom: 0px;
+}
+.information h3{
+	
+	font-size: 20px;
+	color: black;
+	font-weight: normal;
+	margin-left: 89px;
+	margin-top: 0px;
+}
+.names{
+
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	/*! border: 0; */
+	/*! padding: 2px 4px; */
+	/*! border-radius: 0px; */
+}
+.information .names input{
+
+border: 1px solid #11caca4a;
+
+border-radius: 3px;
+
+padding: 7px 5px;
+
+font-size: large;
+
+width: 90%;
+}
+.phone{
+
+	width: 98%;
+	margin-top: 3px;
+}
+.information .phone input{
+
+width: 96%;
+
+margin-top: 7px;
+
+border: #8c92b796;
+
+padding: 7px 8px;
+
+border-radius: 3px;
+
+font-size: large;
+}
+.birthday{
+
+	margin-right: 16px;
+}
+.birthday h4{
+	
+margin-left: 85px;
+	
+color: #90949C;
+	
+font-size: large;
+	
+margin-bottom: 3px;
+}
+.birthday input{
+	
+width: 50%;
+	
+margin-left: 83px;
+	
+border: 1px solid #8c92b796;
+	
+border-radius: 3px;
+	
+padding: 7px 8px;
+	
+font-size: larger;
+	
+margin-top: 0px;
+}
+.gender h4{
+
+	margin-left: 82px;
+	color: #90949C;
+	margin-bottom: 3px;
+}
+.gender input{
+
+	margin-left: 96px;
+	margin-top: 0;
+}
+.gender h5{
+	
+	margin-left: 81px;
+	color: #AC8A8C;
+	font-size: small;
+	font-weight: normal;
+}
+.sign-up{
+
+}
+.sign-up button{
+	
+	margin-left: 79px;
+	margin-top: 0px;
+	width: 35%;
+	padding: 6px 11px;
+	color: #fff;
+	background-color: #62994E;
+	font-size: larger;
+	font-weight: bolder;
+	border-radius: 3px;
+	border: 1px solid #0fb03826;
+}
+.sign-up span{
+	
+	float: left;
+	margin-left: 81px;
+	margin-top: 26px;
+	margin-bottom: 40px;
+}
+.sign-up span strong a{text-decoration: none;}
+.gallery{
+
+width: auto;
+
+margin-top: 0;
+
+overflow: hidden;
+}
+.gallery h2{
+	
+align-items: center;
+	
+margin-left: 535px;
+	
+font-size: 47px;
+	
+color: #189c18d1;
+	
+font-weight: 600;
+}
+.gallery .container3{
+
+width: 1338px;
+
+background-color: white;
+
+margin-top: 0;
+
+margin-left: auto;
+
+margin-right: auto;
+}
+ .holder img{
+    height: 400px;
+    width: auto;
+    margin-left: 24px;
+    border: 2px solid #bae43836;
+    border-radius: 3px;
+}
+ .holder h1{
+    margin-left: 154px;
+    color: #218e069e;
+}
+.holder p{
+    margin-left: 10px;
+    margin-right: 6px;
+    font-family: cursive;
+    font-style: unset;
+}
+.holder ul{
+    margin-left: 133px;
+    font-size: larger;
+    color: #2222dcb5;
+    margin-bottom: 0px;
+}
+.galley  .ul li{}
+.gallery .holder
+{
+	width: 33.33%;
+	background-color: #dac4ce52;
+	float: left;
+	margin-left: 444px;
+	margin-right: auto;
+	box-sizing: border-box;
+}
